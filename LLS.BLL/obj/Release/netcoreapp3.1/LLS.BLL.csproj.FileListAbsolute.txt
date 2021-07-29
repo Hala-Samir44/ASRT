@@ -1,0 +1,14 @@
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Release\netcoreapp3.1\LLS.BLL.deps.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Release\netcoreapp3.1\LLS.BLL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Release\netcoreapp3.1\LLS.BLL.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Release\netcoreapp3.1\LLS.CommonDefinitions.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Release\netcoreapp3.1\LLS.DAL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Release\netcoreapp3.1\LLS.CommonDefinitions.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Release\netcoreapp3.1\LLS.DAL.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Release\netcoreapp3.1\LLS.BLL.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Release\netcoreapp3.1\LLS.BLL.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Release\netcoreapp3.1\LLS.BLL.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Release\netcoreapp3.1\LLS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Release\netcoreapp3.1\LLS.BLL.csproj.CopyComplete
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Release\netcoreapp3.1\LLS.BLL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Release\netcoreapp3.1\LLS.BLL.pdb

@@ -1,0 +1,12 @@
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\bin\Release\netcoreapp3.1\LLS.DAL.deps.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\bin\Release\netcoreapp3.1\LLS.DAL.runtimeconfig.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\bin\Release\netcoreapp3.1\LLS.DAL.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\bin\Release\netcoreapp3.1\LLS.DAL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\bin\Release\netcoreapp3.1\LLS.DAL.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\obj\Release\netcoreapp3.1\LLS.DAL.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\obj\Release\netcoreapp3.1\LLS.DAL.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\obj\Release\netcoreapp3.1\LLS.DAL.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\obj\Release\netcoreapp3.1\LLS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\obj\Release\netcoreapp3.1\LLS.DAL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\obj\Release\netcoreapp3.1\LLS.DAL.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.DAL\obj\Release\netcoreapp3.1\LLS.DAL.genruntimeconfig.cache

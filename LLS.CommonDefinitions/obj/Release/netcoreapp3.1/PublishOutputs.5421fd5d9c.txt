@@ -1,0 +1,3 @@
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\bin\Release\netcoreapp3.1\publish\LLS.CommonDefinitions.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\bin\Release\netcoreapp3.1\publish\LLS.CommonDefinitions.deps.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\bin\Release\netcoreapp3.1\publish\LLS.CommonDefinitions.pdb

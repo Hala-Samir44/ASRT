@@ -1,0 +1,9 @@
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\bin\Release\netcoreapp3.1\LLS.CommonDefinitions.deps.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\bin\Release\netcoreapp3.1\LLS.CommonDefinitions.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\bin\Release\netcoreapp3.1\LLS.CommonDefinitions.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\obj\Release\netcoreapp3.1\LLS.CommonDefinitions.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\obj\Release\netcoreapp3.1\LLS.CommonDefinitions.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\obj\Release\netcoreapp3.1\LLS.CommonDefinitions.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\obj\Release\netcoreapp3.1\LLS.CommonDefinitions.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\obj\Release\netcoreapp3.1\LLS.CommonDefinitions.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.CommonDefinitions\obj\Release\netcoreapp3.1\LLS.CommonDefinitions.pdb

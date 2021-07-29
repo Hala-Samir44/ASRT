@@ -1,0 +1,28 @@
+D:\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.BLL.deps.json
+D:\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.BLL.dll
+D:\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.BLL.pdb
+D:\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.CommonDefinitions.dll
+D:\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.DAL.dll
+D:\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.CommonDefinitions.pdb
+D:\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.DAL.pdb
+D:\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.csprojAssemblyReference.cache
+D:\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.AssemblyInfoInputs.cache
+D:\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.AssemblyInfo.cs
+D:\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.csproj.CoreCompileInputs.cache
+D:\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.csproj.CopyComplete
+D:\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.dll
+D:\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.BLL.deps.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.BLL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.BLL.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.CommonDefinitions.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.DAL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.CommonDefinitions.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\bin\Debug\netcoreapp3.1\LLS.DAL.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.csproj.CopyComplete
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS.BLL\obj\Debug\netcoreapp3.1\LLS.BLL.pdb

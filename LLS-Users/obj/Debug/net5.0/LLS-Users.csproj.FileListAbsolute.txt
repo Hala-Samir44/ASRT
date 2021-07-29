@@ -1,0 +1,94 @@
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.DAL.dll
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.csprojAssemblyReference.cache
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.GeneratedMSBuildEditorConfig.editorconfig
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.AssemblyInfoInputs.cache
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.AssemblyInfo.cs
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\staticwebassets\LLS-Users.StaticWebAssets.Manifest.cache
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\staticwebassets\LLS-Users.StaticWebAssets.xml
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\scopedcss\bundle\LLS-Users.styles.css
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.RazorTargetAssemblyInfo.cache
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Npgsql.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\appsettings.Development.json
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\appsettings.json
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.exe
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.deps.json
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.runtimeconfig.json
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.runtimeconfig.dev.json
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\ref\LLS-Users.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.pdb
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.DAL.pdb
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.csproj.CoreCompileInputs.cache
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.MvcApplicationPartsAssemblyInfo.cs
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.MvcApplicationPartsAssemblyInfo.cache
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.csproj.CopyComplete
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.dll
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\ref\LLS-Users.dll
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.pdb
+D:\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.genruntimeconfig.cache
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Humanizer.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\Ulid.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.BLL.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.CommonDefinitions.dll
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.BLL.pdb
+D:\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.CommonDefinitions.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\appsettings.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.exe
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.deps.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.runtimeconfig.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\ref\LLS-Users.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS-Users.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\Ulid.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.BLL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.CommonDefinitions.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.DAL.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.BLL.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.DAL.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\bin\Debug\net5.0\LLS.CommonDefinitions.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\staticwebassets\LLS-Users.StaticWebAssets.Manifest.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\staticwebassets\LLS-Users.StaticWebAssets.xml
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\scopedcss\bundle\LLS-Users.styles.css
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.RazorTargetAssemblyInfo.cache
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.csproj.CopyComplete
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\ref\LLS-Users.dll
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.pdb
+C:\Users\ahmed\Desktop\New folder\LLS\LLS\LLS-Users\obj\Debug\net5.0\LLS-Users.genruntimeconfig.cache
